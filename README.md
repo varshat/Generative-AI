@@ -12,8 +12,7 @@ This project is a text-to-image, image-to-text, text-to-video, and multilingual 
 
 ## Requirements
 
-- [List of dependencies and versions]
-- [Any hardware or software requirements]
+- Huggingface token 
 
 ## Installation
 
