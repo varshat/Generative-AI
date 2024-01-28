@@ -17,6 +17,4 @@ This project is a text-to-image, image-to-text, text-to-video, and multilingual 
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone [repository_url]
-   cd project-directory
+  https://github.com/varshat/Generative-AI.git
